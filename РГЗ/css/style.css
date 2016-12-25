@@ -7,7 +7,7 @@ h1 {
 }
 
 #calculator table {
-    border: solid 4px silver;
+    border: solid 4px red;
     border-spacing: 4px;
     background-color: #EEE;
     margin: 0 auto;
